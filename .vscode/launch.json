@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ADITHYA/Documents/GitHub/Algorithms/C++/bits",
-      "program": "c:/Users/ADITHYA/Documents/GitHub/Algorithms/C++/bits/build/Debug/outDebug",
+      "cwd": "c:/Users/ADITHYA/Documents/GitHub/Algorithms/C++/Searching",
+      "program": "c:/Users/ADITHYA/Documents/GitHub/Algorithms/C++/Searching/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -4,6 +4,7 @@ using namespace std;
 unsigned int num_of_sets(unsigned int x){
     unsigned int res =0;
     while(x){
+        cout << (x&1);
         res += x&1;
         x>>=1;
     }

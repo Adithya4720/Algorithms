@@ -26,7 +26,7 @@ int exponentialsearch(int arr[],int size,int key){
     while(i<size && arr[i]<=key){
         i=i*2;
     }
-    return binarysearch(arr ,i/2 , min(i,size-1) ,key);
+    return binarysearch(arr ,i/2 ,i-1 ,key);
 }
 
 
